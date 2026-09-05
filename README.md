@@ -1,5 +1,5 @@
 # Retail Sales Data Analytics Dashboard
-
+![Retail Sales Dashboard](dashboard.png)
 ## Project Overview
 
 This project is a Retail Sales Data Analytics Dashboard developed using Microsoft Power BI.
